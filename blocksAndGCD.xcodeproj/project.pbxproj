@@ -14,6 +14,7 @@
 		E1F89C3825DBA67200E56AB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1F89C3725DBA67200E56AB0 /* Assets.xcassets */; };
 		E1F89C3B25DBA67200E56AB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1F89C3925DBA67200E56AB0 /* LaunchScreen.storyboard */; };
 		E1F89C3E25DBA67200E56AB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E1F89C3D25DBA67200E56AB0 /* main.m */; };
+		E1F89C4825DBE37D00E56AB0 /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = E1F89C4725DBE37D00E56AB0 /* Calculator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		E1F89C3A25DBA67200E56AB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1F89C3C25DBA67200E56AB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1F89C3D25DBA67200E56AB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E1F89C4625DBE37D00E56AB0 /* Calculator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
+		E1F89C4725DBE37D00E56AB0 /* Calculator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +68,8 @@
 				E1F89C2C25DBA67200E56AB0 /* AppDelegate.m */,
 				E1F89C2E25DBA67200E56AB0 /* SceneDelegate.h */,
 				E1F89C2F25DBA67200E56AB0 /* SceneDelegate.m */,
+				E1F89C4625DBE37D00E56AB0 /* Calculator.h */,
+				E1F89C4725DBE37D00E56AB0 /* Calculator.m */,
 				E1F89C3125DBA67200E56AB0 /* ViewController.h */,
 				E1F89C3225DBA67200E56AB0 /* ViewController.m */,
 				E1F89C3425DBA67200E56AB0 /* Main.storyboard */,
@@ -149,6 +154,7 @@
 				E1F89C2D25DBA67200E56AB0 /* AppDelegate.m in Sources */,
 				E1F89C3E25DBA67200E56AB0 /* main.m in Sources */,
 				E1F89C3025DBA67200E56AB0 /* SceneDelegate.m in Sources */,
+				E1F89C4825DBE37D00E56AB0 /* Calculator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
